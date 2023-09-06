@@ -12,3 +12,5 @@ CREATE TABLE albums
     genre VARCHAR(50) NOT NULL,
     PRIMARY KEY (id)
 );
+
+SELECT * FROM albums;
